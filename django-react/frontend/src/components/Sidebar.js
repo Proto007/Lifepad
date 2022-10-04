@@ -1,9 +1,8 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useCallback } from 'react';
 import "../assets/tailwind.css"
 import api from '../../config';
 
 import DocTree from './DocTree';
-import {Link, Navigate } from 'react-router-dom'
 import Hamburger from './Hamburger'
 import { RiAddBoxLine} from "react-icons/ri";
 import {MdCreateNewFolder} from "react-icons/md"

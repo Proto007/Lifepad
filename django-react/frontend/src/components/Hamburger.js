@@ -1,6 +1,4 @@
 import React from 'react'
-import { Router } from 'react-router-dom'
-import { login } from '../state/slices/userSlice'
 
 const Hamburger = ({isOpen, setIsOpen}) => {
   return (

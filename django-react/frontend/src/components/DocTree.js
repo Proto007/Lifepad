@@ -1,7 +1,4 @@
-import React, { useState,useEffect } from "react";
-import { HiOutlineDocumentText,HiOutlineFolder} from "react-icons/hi";
-import { MdExpandMore} from "react-icons/md";
-import { AiOutlineRight} from "react-icons/ai";
+import React from "react";
 import Doc from './Doc'
 
 const Tree=({documents, action, setAction})=>{
