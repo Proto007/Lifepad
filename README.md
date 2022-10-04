@@ -1,6 +1,6 @@
 # Capstone
 
-> **_NOTE:_** A .env file is required to run this application. It is not provided for security reasons.
+> **_NOTE:_** There is an issue with CORS while accessing the doc editor in some browsers.
 
 # Installation
 
