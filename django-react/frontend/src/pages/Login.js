@@ -1,10 +1,8 @@
 import React, {useState} from 'react'
 import {Link } from 'react-router-dom'
 import {useDispatch} from "react-redux" 
-import {signin, getUser} from "../state/slices/userSlice"
+import signin from "../state/slices/userSlice"
 import { useNavigate } from "react-router-dom";
-import api from '../../config';
-import { useSelector } from 'react-redux';
 
 const Login = () => {
   const [email, setEmail] = useState("")

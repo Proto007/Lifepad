@@ -2,8 +2,6 @@ import React, {useState} from 'react'
 import {Link } from 'react-router-dom'
 import {useDispatch} from "react-redux" 
 import {signup, getUser} from "../state/slices/userSlice"
-import { useNavigate } from "react-router-dom";
-import axios from 'axios'
 import { useSelector } from 'react-redux';
 
 const Signup = () => {
