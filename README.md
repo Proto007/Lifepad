@@ -7,7 +7,7 @@ https://docs.google.com/presentation/d/1YgwH-ZEYtaNXRDQfn0ySE2B3gjZlYJ7b/edit?us
 
 # Demo
 This demo shows the editor in lifepad.
-<img src='https://github.com/Proto007/Lifepad/blob/main/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Installation
 
